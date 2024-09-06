@@ -1,20 +1,17 @@
 class Solution {
     public int firstUniqChar(String s) {
-        HashMap<Character, Integer> charCount = new HashMap<>();
-        
-        // First pass: count the frequency of each character
-        for (int i = 0; i < s.length(); i++) {
-            char c = s.charAt(i);
-            charCount.put(c, charCount.getOrDefault(c, 0) + 1);
-        }
-        
-        // Second pass: find the first unique character
-        for (int i = 0; i < s.length(); i++) {
-            if (charCount.get(s.charAt(i)) == 1) {
-                return i; // Return the index of the first unique character
+        int len = s.length();
+
+        // Loop through each character of the string
+        for (int i = 0; i < len; i++) {
+            char currentChar = s.charAt(i);
+
+            // Check if the first and last occurrence of the character are the same
+            if (s.indexOf(currentChar) == s.lastIndexOf(currentChar)) {
+                return i; // First unique character found, return its index
             }
         }
-        
+
         return -1; // No unique character found
     }
 }
