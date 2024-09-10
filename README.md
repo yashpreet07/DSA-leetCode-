@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0268-missing-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1031-add-to-array-form-of-integer) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Binary Search
 |  |
 | ------- |
