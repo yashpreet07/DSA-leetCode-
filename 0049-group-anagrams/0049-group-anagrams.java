@@ -26,27 +26,61 @@ The error in your code lies in how you are constructing the freqPattern string. 
 
 To fix this, use a delimiter between the character frequencies to avoid ambiguity. Here’s the corrected version of your code:
 */
+// class Solution {
+//     public List<List<String>> groupAnagrams(String[] strs) {
+//         Map<String, List<String>> map = new HashMap<>();
+//         for (String str : strs) {
+//             int[] freq = new int[26];
+//             for (char ch : str.toCharArray()) {
+//                 freq[ch - 'a']++;
+//             }
+            
+//             // Build the frequency pattern string with a delimiter
+//             StringBuilder freqPattern = new StringBuilder();
+//             for (int charFreq : freq) {
+//                 freqPattern.append(charFreq).append("#"); // Adding '#' as a delimiter
+//             }
+            
+//             String pattern = freqPattern.toString();
+//             if (!map.containsKey(pattern)) {
+//                 map.put(pattern, new ArrayList<>());
+//             }
+//             map.get(pattern).add(str);
+//         }
+//         return new ArrayList<>(map.values());
+//     }
+// }
+// More optimzed code
+// You can optimize the solution by avoiding frequency array manipulation and directly sorting the characters of each string. Sorting ensures that all anagrams produce the same sorted string, which can be used as a key in the map. This approach simplifies the logic and makes it faster in practice for moderate input sizes.
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
         Map<String, List<String>> map = new HashMap<>();
+        
         for (String str : strs) {
-            int[] freq = new int[26];
-            for (char ch : str.toCharArray()) {
-                freq[ch - 'a']++;
-            }
+            // Sort the characters of the string
+            char[] chars = str.toCharArray();
+            Arrays.sort(chars);
+            String sortedStr = new String(chars);
             
-            // Build the frequency pattern string with a delimiter
-            StringBuilder freqPattern = new StringBuilder();
-            for (int charFreq : freq) {
-                freqPattern.append(charFreq).append("#"); // Adding '#' as a delimiter
+            // Use sorted string as key
+            if (!map.containsKey(sortedStr)) {
+                map.put(sortedStr, new ArrayList<>());
             }
-            
-            String pattern = freqPattern.toString();
-            if (!map.containsKey(pattern)) {
-                map.put(pattern, new ArrayList<>());
-            }
-            map.get(pattern).add(str);
+            map.get(sortedStr).add(str);
         }
+        
         return new ArrayList<>(map.values());
     }
 }
+/*Key Optimizations:
+
+	1.	Sorting Strings: By sorting each string, all anagrams will produce the same sorted string, allowing us to use it as a unique key in the map.
+	2.	Simpler Key Management: Instead of using frequency arrays and patterns, sorting makes it straightforward to identify anagrams, reducing potential sources of bugs and ambiguity.
+
+Time Complexity:
+
+	•	Sorting each string takes O(k \log k), where k is the average length of the strings.
+	•	Since you do this for each of the n strings, the overall time complexity is O(n \cdot k \log k), which is efficient for most practical purposes.
+
+This solution is generally more intuitive and has good performance for typical input si
+*/
