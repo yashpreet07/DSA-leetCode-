@@ -11,12 +11,12 @@ class Solution {
 
     public int GCD(int x,int y)
     {
-        int max=Math.max(x,y);
+        int min=Math.min(x,y);
         int gcd=1;
-        for(int i=1;i<=max;i++)
+        for(int i=1;i<=min;i++)
         {
             if(x%i==0 && y%i==0)
-                gcd=Math.max(gcd,i);
+                gcd=i;
         }
     return gcd;
     }
