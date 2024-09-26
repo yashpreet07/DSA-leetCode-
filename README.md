@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0142-linked-list-cycle-ii) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0091-decode-ways) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0219-contains-duplicate-ii) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1430-find-the-k-beauty-of-a-number) |
 ## Dynamic Programming
