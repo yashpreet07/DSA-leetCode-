@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0231-power-of-two) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
