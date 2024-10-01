@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0387-first-unique-character-in-a-string) |
+| [0415-add-strings](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0415-add-strings) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1430-find-the-k-beauty-of-a-number) |
 ## Queue
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0415-add-strings) |
 | [1031-add-to-array-form-of-integer](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1031-add-to-array-form-of-integer) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2083-three-divisors](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2083-three-divisors) |
@@ -135,4 +137,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0043-multiply-strings) |
+| [0415-add-strings](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
