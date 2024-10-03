@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0268-missing-number) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0091-decode-ways) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0198-house-robber) |
 ## Prefix Sum
 |  |
