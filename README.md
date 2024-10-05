@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0125-valid-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0415-add-strings) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0202-happy-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [1894-merge-strings-alternately](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
 |  |
