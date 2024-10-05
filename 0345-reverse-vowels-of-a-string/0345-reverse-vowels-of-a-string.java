@@ -29,40 +29,34 @@
 // }
 
 class Solution {
-    private final HashSet<Character> vowels = new HashSet<>();
-    
-    public Solution() {
-        // Initialize the vowel set (for quick O(1) lookups)
-        vowels.add('A'); vowels.add('E'); vowels.add('I'); vowels.add('O'); vowels.add('U');
-        vowels.add('a'); vowels.add('e'); vowels.add('i'); vowels.add('o'); vowels.add('u');
-    }
-
-    public boolean isVowel(char ltr) {
-        return vowels.contains(ltr);
-    }
-
     public String reverseVowels(String s) {
-        char[] ch = s.toCharArray();
-        int i = 0;
-        int j = s.length() - 1;
-
-        while (i < j) {
-            if (isVowel(ch[i]) && isVowel(ch[j])) {
-                char temp = ch[i];
-                ch[i] = ch[j];
-                ch[j] = temp;
-                i++;
-                j--;
-            } else {
-                if (!isVowel(ch[i])) {
-                    i++;
-                }
-                if (!isVowel(ch[j])) {
-                    j--;
-                }
+        char[] word = s.toCharArray();
+        int start = 0;
+        int end = s.length() - 1;
+        String vowels = "aeiouAEIOU";
+        
+        while (start < end) {
+            // Move start pointer until it points to a vowel
+            while (start < end && vowels.indexOf(word[start]) == -1) {
+                start++;
             }
+            
+            // Move end pointer until it points to a vowel
+            while (start < end && vowels.indexOf(word[end]) == -1) {
+                end--;
+            }
+            
+            // Swap the vowels
+            char temp = word[start];
+            word[start] = word[end];
+            word[end] = temp;
+            
+            // Move the pointers towards each other
+            start++;
+            end--;
         }
-        return String.valueOf(ch);
+        
+        String answer = new String(word);
+        return answer;
     }
 }
-
