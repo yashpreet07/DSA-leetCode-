@@ -1,5 +1,3 @@
-import java.util.HashMap;
-
 class Solution {
     public int minSubarray(int[] nums, int p) {
         long totalSum = 0;
@@ -16,7 +14,7 @@ class Solution {
         long prefixSum = 0;
         int minLength = nums.length;
 
-        for (int i = 0; i < nums.length; ++i) {
+        for (int i = 0; i < nums.length; i++) {
             prefixSum += nums[i];
             int currentMod = (int)(prefixSum % p);
             int targetMod = (currentMod - rem + p) % p;
