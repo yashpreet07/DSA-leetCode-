@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0560-subarray-sum-equals-k) |
 | [1256-rank-transform-of-an-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1694-make-sum-divisible-by-p](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1694-make-sum-divisible-by-p) |
 ## String
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0605-can-place-flowers) |
 | [1031-add-to-array-form-of-integer](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1031-add-to-array-form-of-integer) |
 | [1256-rank-transform-of-an-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1256-rank-transform-of-an-array) |
+| [1694-make-sum-divisible-by-p](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1694-make-sum-divisible-by-p) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0560-subarray-sum-equals-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1694-make-sum-divisible-by-p) |
 ## Memoization
 |  |
 | ------- |
