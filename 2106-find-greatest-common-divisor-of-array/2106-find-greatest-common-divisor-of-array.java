@@ -9,15 +9,21 @@ class Solution {
     return GCD(s,l);
     }
 
-    public int GCD(int x,int y)
-    {
-        int min=Math.min(x,y);
-        int gcd=1;
-        for(int i=1;i<=min;i++)
-        {
-            if(x%i==0 && y%i==0)
-                gcd=i;
+private int GCD(int a, int b) {
+        if (b == 0) {
+            return a;
         }
-    return gcd;
+        return GCD(b, a % b);
     }
+    // public int GCD(int x,int y)
+    // {
+    //     int min=Math.min(x,y);
+    //     int gcd=1;
+    //     for(int i=1;i<=min;i++)
+    //     {
+    //         if(x%i==0 && y%i==0)
+    //             gcd=i;
+    //     }
+    // return gcd;
+    // }
 }
