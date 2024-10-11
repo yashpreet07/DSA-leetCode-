@@ -33,8 +33,6 @@ class Solution {
                 }
             }
         }
-
-        // A perfect number is a number where the sum of divisors (excluding itself) equals the number
         return sum == num;
     }
 }
