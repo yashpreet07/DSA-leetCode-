@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0605-can-place-flowers) |
+| [0978-valid-mountain-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0978-valid-mountain-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1031-add-to-array-form-of-integer) |
 | [1256-rank-transform-of-an-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1256-rank-transform-of-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
