@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0560-subarray-sum-equals-k) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0605-can-place-flowers) |
 ## Geometry
