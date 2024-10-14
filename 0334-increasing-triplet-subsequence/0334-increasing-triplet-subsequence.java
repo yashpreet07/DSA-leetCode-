@@ -1,3 +1,13 @@
+/* Your Code passed 67 test case then failed.
+ You miss understood the question Only Handeled Consecutive element Instead of random which was asked.
+for example:
+nums = [1,5,0,4,1,3]
+your answer will be false but its true
+as i = 2(0)
+   j = 4(1)
+   k = 5(3)
+Your code works only for Substring not subsequence.
+ */
 // class Solution {
 //     public boolean increasingTriplet(int[] nums) {
 //         int i = 0;
@@ -16,6 +26,7 @@
 //     return true;
 //     }
 // }
+
 class Solution {
     public boolean increasingTriplet(int[] nums) {
         if (nums == null || nums.length < 3) {
