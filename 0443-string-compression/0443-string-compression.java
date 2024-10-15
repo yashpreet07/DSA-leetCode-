@@ -56,6 +56,23 @@
 //         return chars.length;
 //     }
 // }
+/*
+Your Main Doubt
+ In this question is it given that consecutive repeating characters will appear together?
+ is it possible a case where the chars is like chars = ['a','b','a','c','c','b','c']
+ 
+ Clarification:
+
+	•	Consecutive Repeating Characters: The problem assumes that the characters in the input array chars are arranged such that consecutive repeating characters will indeed appear together. This means that the input will always contain groups of the same character adjacent to each other, like in:
+	•	['a','a','b','b','c','c','c'] → which would compress to ['a','2','b','2','c','3'].
+
+Not Allowed Cases:
+
+	•	Cases like ['a','b','a','c','c','b','c'] are not valid for this problem because they do not have consecutive characters. For this question, you will not need to handle such mixed character arrangements. If you encounter such a case, you can treat each character separately and write them directly to the output.
+
+
+*/
+
 class Solution {
     public int compress(char[] chars) {
         int write = 0;  // Pointer to write compressed characters
@@ -80,6 +97,12 @@ class Solution {
                 for (char c : Integer.toString(count).toCharArray()) {
                     chars[write] = c;
                     write++;
+                    /*
+    what is the use of .toCharArray():
+	•	This method converts the string produced by Integer.toString(count) into an array  of characters.
+	•	For example, the string "3" becomes a character array ['3'].
+	•	If count were 12, Integer.toString(count) would yield "12", and toCharArray() would yield ['1', '2'].
+     */
                 }
             }
         }
