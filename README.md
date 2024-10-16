@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0443-string-compression) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0455-assign-cookies) |
 | [1894-merge-strings-alternately](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1894-merge-strings-alternately) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0392-is-subsequence) |
 ## Prefix Sum
 |  |
 | ------- |
