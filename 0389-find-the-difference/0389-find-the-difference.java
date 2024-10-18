@@ -9,23 +9,43 @@
 //     return 'a';}
 // }
 // count the frequency of each character in both strings and then compare those frequencies.
+// class Solution {
+//     public char findTheDifference(String s, String t) {
+//         int[] charCount = new int[26];  // Array to store character counts (for lowercase letters)
+
+//         // Count characters in string `s`
+//         for (char ch : s.toCharArray()) {
+//             charCount[ch - 'a']++;
+//         }
+
+//         // Subtract counts based on string `t`, find the extra character
+//         for (char ch : t.toCharArray()) {
+//             charCount[ch - 'a']--;
+//             if (charCount[ch - 'a'] < 0) {
+//                 return ch;  // This character has extra occurrences in `t`
+//             }
+//         }
+
+//         return 'a';  // This line will never be reached, but is needed for compilation
+//     }
+// }
+
+// The Best approach is Xor!!
 class Solution {
     public char findTheDifference(String s, String t) {
-        int[] charCount = new int[26];  // Array to store character counts (for lowercase letters)
+        char result = 0;  // Initialize result as 0 (neutral for XOR)
 
-        // Count characters in string `s`
+        // XOR all characters in string `s`
         for (char ch : s.toCharArray()) {
-            charCount[ch - 'a']++;
+            result ^= ch;
         }
 
-        // Subtract counts based on string `t`, find the extra character
+        // XOR all characters in string `t`
         for (char ch : t.toCharArray()) {
-            charCount[ch - 'a']--;
-            if (charCount[ch - 'a'] < 0) {
-                return ch;  // This character has extra occurrences in `t`
-            }
+            result ^= ch;
         }
 
-        return 'a';  // This line will never be reached, but is needed for compilation
+        // After XOR-ing, result will hold the extra character in `t`
+        return result;
     }
 }
