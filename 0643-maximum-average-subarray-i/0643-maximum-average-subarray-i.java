@@ -23,26 +23,47 @@
 	/* 1.	Initialization of maxAvg: Start with the average of the first k elements instead of 0.0.
 	2.	Sliding Window Optimization: Instead of recalculating the sum in each iteration using a nested loop, maintain a running sum and update it by adding the next element and subtracting the previous element.*/
 
+// class Solution {
+    // public double findMaxAverage(int[] nums, int k) {
+        // int len = nums.length;
+        
+//         // Calculate the sum of the first 'k' elements
+//         double sum = 0.0;
+//         for (int i = 0; i < k; i++) {
+//             sum += nums[i];
+//         }
+        
+//         // Initialize maxAvg as the average of the first subarray of length k
+//         double maxAvg = sum / k;
+        
+//         // Use a sliding window to calculate the sum of subsequent subarrays of length k
+//         for (int i = k; i < len; i++) {
+//             sum = sum + nums[i] - nums[i - k];
+//             double avg = sum / k;
+//             maxAvg = Math.max(maxAvg, avg);
+//         }
+        
+//         return maxAvg;
+//     }
+// }
 class Solution {
     public double findMaxAverage(int[] nums, int k) {
-        int len = nums.length;
-        
         // Calculate the sum of the first 'k' elements
-        double sum = 0.0;
+        double maxSum = 0;
         for (int i = 0; i < k; i++) {
-            sum += nums[i];
+            maxSum += nums[i];
         }
-        
-        // Initialize maxAvg as the average of the first subarray of length k
-        double maxAvg = sum / k;
-        
-        // Use a sliding window to calculate the sum of subsequent subarrays of length k
-        for (int i = k; i < len; i++) {
-            sum = sum + nums[i] - nums[i - k];
-            double avg = sum / k;
-            maxAvg = Math.max(maxAvg, avg);
+
+        // Initialize currentSum with maxSum
+        double currentSum = maxSum;
+
+        // Use the sliding window to calculate the sum for the rest of the subarrays
+        for (int i = k; i < nums.length; i++) {
+            currentSum += nums[i] - nums[i - k];  // Slide the window by subtracting the element that goes out and adding the element that comes in
+            maxSum = Math.max(maxSum, currentSum);  // Track the maximum sum
         }
-        
-        return maxAvg;
+
+        // Return the maximum average
+        return maxSum / k;
     }
 }
