@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1430-find-the-k-beauty-of-a-number](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2083-three-divisors](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2288-count-operations-to-obtain-zero](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2288-count-operations-to-obtain-zero) |
 | [2491-smallest-even-multiple](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2556-convert-the-temperature) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2575-minimum-cuts-to-divide-a-circle) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0415-add-strings) |
+| [2288-count-operations-to-obtain-zero](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2288-count-operations-to-obtain-zero) |
 ## Greedy
 |  |
 | ------- |
