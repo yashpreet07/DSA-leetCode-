@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1031-add-to-array-form-of-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2083-three-divisors](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2288-count-operations-to-obtain-zero) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0389-find-the-difference) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
 |  |
 | ------- |
