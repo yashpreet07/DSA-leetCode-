@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-valid-mountain-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0978-valid-mountain-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1031-add-to-array-form-of-integer) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1256-rank-transform-of-an-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1392-find-the-difference-of-two-arrays) |
