@@ -217,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
