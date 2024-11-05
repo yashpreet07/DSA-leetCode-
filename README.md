@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2502-sort-the-people](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2502-sort-the-people) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/yashpreet07/DSA-leetCode-/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Queue
 |  |
 | ------- |
