@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1430-find-the-k-beauty-of-a-number](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1894-merge-strings-alternately](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2502-sort-the-people](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2502-sort-the-people) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/yashpreet07/DSA-leetCode-/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Queue
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1694-make-sum-divisible-by-p](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1694-make-sum-divisible-by-p) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2502-sort-the-people](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2502-sort-the-people) |
 ## Math
 |  |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Simulation
 |  |
 | ------- |
