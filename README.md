@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0278-first-bad-version) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Bit Manipulation
 |  |
@@ -250,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
