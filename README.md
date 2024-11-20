@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1694-make-sum-divisible-by-p](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1694-make-sum-divisible-by-p) |
+| [1755-defuse-the-bomb](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1755-defuse-the-bomb) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2502-sort-the-people](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2502-sort-the-people) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0643-maximum-average-subarray-i) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1755-defuse-the-bomb](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1755-defuse-the-bomb) |
 ## Dynamic Programming
 |  |
 | ------- |
