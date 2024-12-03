@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2232-adding-spaces-to-a-string](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2502-sort-the-people](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2502-sort-the-people) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/yashpreet07/DSA-leetCode-/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1694-make-sum-divisible-by-p) |
 | [1755-defuse-the-bomb](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1755-defuse-the-bomb) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2232-adding-spaces-to-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1894-merge-strings-alternately) |
+| [2232-adding-spaces-to-a-string](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2232-adding-spaces-to-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0415-add-strings) |
+| [2232-adding-spaces-to-a-string](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2232-adding-spaces-to-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2288-count-operations-to-obtain-zero) |
 ## Greedy
