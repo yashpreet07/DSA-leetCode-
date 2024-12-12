@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2502-sort-the-people](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2502-sort-the-people) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3429-special-array-i](https://github.com/yashpreet07/DSA-leetCode-/tree/master/3429-special-array-i) |
 ## Math
 |  |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2232-adding-spaces-to-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2288-count-operations-to-obtain-zero) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Greedy
 |  |
 | ------- |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Matrix
 |  |
 | ------- |
