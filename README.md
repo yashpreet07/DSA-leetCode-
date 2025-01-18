@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2502-sort-the-people) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/yashpreet07/DSA-leetCode-/tree/master/3044-minimum-operations-to-collect-elements) |
 ## String
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2502-sort-the-people) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/yashpreet07/DSA-leetCode-/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3429-special-array-i](https://github.com/yashpreet07/DSA-leetCode-/tree/master/3429-special-array-i) |
 ## Math
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2232-adding-spaces-to-a-string) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/yashpreet07/DSA-leetCode-/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Sliding Window
 |  |
