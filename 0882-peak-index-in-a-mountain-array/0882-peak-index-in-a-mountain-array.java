@@ -1,5 +1,6 @@
 class Solution {
     boolean check(int []arr,int m){
+        if(m == arr.length - 1) return true;
         return (arr[m] > arr[m + 1]);
     }
     public int peakIndexInMountainArray(int[] arr) {
