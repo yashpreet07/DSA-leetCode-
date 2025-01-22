@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1646-kth-missing-positive-number](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1646-kth-missing-positive-number) |
 | [1694-make-sum-divisible-by-p](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1694-make-sum-divisible-by-p) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1755-defuse-the-bomb](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1755-defuse-the-bomb) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1646-kth-missing-positive-number](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1646-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Bit Manipulation
