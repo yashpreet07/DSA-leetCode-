@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1241-decompress-run-length-encoded-list](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1241-decompress-run-length-encoded-list) |
 | [1256-rank-transform-of-an-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1319-unique-number-of-occurrences) |
