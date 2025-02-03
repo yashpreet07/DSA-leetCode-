@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/yashpreet07/DSA-leetCode-/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/yashpreet07/DSA-leetCode-/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/yashpreet07/DSA-leetCode-/tree/master/3429-special-array-i) |
 ## Math
 |  |
