@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0136-single-number) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0198-house-robber) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0085-maximal-rectangle) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Interactive
 |  |
@@ -381,11 +384,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0496-next-greater-element-i) |
 | [2128-reverse-prefix-of-word](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2128-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
