@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0198-house-robber) |
+| [0215-kth-largest-element-in-an-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0268-missing-number) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0455-assign-cookies) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -402,4 +405,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0022-generate-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
