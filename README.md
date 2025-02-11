@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2128-reverse-prefix-of-word](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2128-reverse-prefix-of-word) |
 | [2232-adding-spaces-to-a-string](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2232-adding-spaces-to-a-string) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0415-add-strings) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0496-next-greater-element-i) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2128-reverse-prefix-of-word) |
 | [3447-clear-digits](https://github.com/yashpreet07/DSA-leetCode-/tree/master/3447-clear-digits) |
 ## Monotonic Stack
