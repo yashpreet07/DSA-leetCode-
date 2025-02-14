@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0941-sort-array-by-parity) |
 | [0952-word-subsets](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0952-word-subsets) |
 | [0978-valid-mountain-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0978-valid-mountain-array) |
+| [1014-k-closest-points-to-origin](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1014-k-closest-points-to-origin) |
 | [1031-add-to-array-form-of-integer](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1031-add-to-array-form-of-integer) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1210-mean-of-array-after-removing-some-elements) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0507-perfect-number) |
+| [1014-k-closest-points-to-origin](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1014-k-closest-points-to-origin) |
 | [1031-add-to-array-form-of-integer](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1031-add-to-array-form-of-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1260-day-of-the-year](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1260-day-of-the-year) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0658-find-k-closest-elements) |
 | [0941-sort-array-by-parity](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0941-sort-array-by-parity) |
+| [1014-k-closest-points-to-origin](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1014-k-closest-points-to-origin) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1256-rank-transform-of-an-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1306-minimum-absolute-difference) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [1014-k-closest-points-to-origin](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1014-k-closest-points-to-origin) |
 | [1395-minimum-time-visiting-all-points](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1395-minimum-time-visiting-all-points) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 ## Database
@@ -391,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0658-find-k-closest-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1014-k-closest-points-to-origin) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -429,11 +434,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1014-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
