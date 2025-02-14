@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0560-subarray-sum-equals-k) |
 | [0952-word-subsets](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0952-word-subsets) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0451-sort-characters-by-frequency) |
 | [0952-word-subsets](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0952-word-subsets) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0451-sort-characters-by-frequency) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0658-find-k-closest-elements) |
 | [0941-sort-array-by-parity](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0941-sort-array-by-parity) |
@@ -380,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0658-find-k-closest-elements) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -422,4 +427,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0215-kth-largest-element-in-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
