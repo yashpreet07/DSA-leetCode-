@@ -1,21 +1,25 @@
 class Solution {
     public String kthDistinct(String[] arr, int k) {
-        Map<String, Integer> frequencyMap = new HashMap<>();
-        List<String> distinctList = new ArrayList<>();
 
-        // First pass: Count occurrences
-        for (String str : arr) {
-            frequencyMap.put(str, frequencyMap.getOrDefault(str, 0) + 1);
-        }
+        HashMap<String, Boolean> map = new HashMap<>();
+        int count = 0;
+        for (int i = 0; i < arr.length; i++) {
+            if (map.containsKey(arr[i])) {
+                map.put(arr[i], false);
 
-        // Second pass: Store distinct elements in order
-        for (String str : arr) {
-            if (frequencyMap.get(str) == 1) { // Only add distinct elements
-                distinctList.add(str);
+            } else {
+                map.put(arr[i], true);
             }
         }
 
-        // Return k-th distinct element if it exists
-        return (k <= distinctList.size()) ? distinctList.get(k - 1) : "";
+        for (String item : arr) {
+            if (map.get(item) == true) {
+                count++;
+                if (count == k) {
+                    return item;
+                }
+            }
+        }
+        return "";
     }
 }
