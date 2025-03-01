@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0496-next-greater-element-i) |
+| [0937-online-stock-span](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0937-online-stock-span) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2128-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2470-removing-stars-from-a-string) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0496-next-greater-element-i) |
+| [0937-online-stock-span](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0937-online-stock-span) |
 ## Backtracking
 |  |
 | ------- |
@@ -455,4 +457,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0451-sort-characters-by-frequency) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
