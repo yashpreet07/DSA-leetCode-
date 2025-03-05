@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-convert-the-temperature](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2556-convert-the-temperature) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2649-count-total-number-of-colored-cells](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2649-count-total-number-of-colored-cells) |
 ## Binary Search
 |  |
 | ------- |
