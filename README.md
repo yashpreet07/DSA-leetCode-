@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1500-count-largest-group](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1502-construct-k-palindrome-strings) |
 | [1694-make-sum-divisible-by-p](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1694-make-sum-divisible-by-p) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1646-kth-missing-positive-number](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1646-kth-missing-positive-number) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1306-minimum-absolute-difference) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -496,4 +499,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0292-nim-game) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
