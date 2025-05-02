@@ -1,25 +1,28 @@
 class Solution {
+    List<String> res = new ArrayList<>();
     public List<String> generateParenthesis(int n) {
-        List<String> result = new ArrayList<>();
-        backtrack(result, "", 0, 0, n);
-        return result;
+        int close = n;
+        int open = n;
+        String op = "";
+        solve(open,close,op);
+        return res;
     }
-
-    private void backtrack(List<String> result, String current, int open, int close, int max) {
-        if (current.length() == max * 2) {
-            result.add(current);
+    void solve(int open,int close,String op){
+        // BC:
+        if(close == 0 && open == 0){
+            res.add(op);
             return;
         }
-        if (open < max) {
-            backtrack(result, current + "(", open + 1, close, max);
+        if(open != 0){
+            String op1 = op;
+            op1 += "(";
+            solve(open - 1,close,op1);
         }
-        if (close < open) {
-            backtrack(result, current + ")", open, close + 1, max);
+        if(close > open){
+            String op2 = op;
+            op2 += ")";
+            solve(open,close - 1,op2);
         }
-    }
-
-    public static void main(String[] args) {
-        Solution sol = new Solution();
-        System.out.println(sol.generateParenthesis(3));
+        return;
     }
 }
