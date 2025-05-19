@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/yashpreet07/DSA-leetCode-/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3321-type-of-triangle](https://github.com/yashpreet07/DSA-leetCode-/tree/master/3321-type-of-triangle) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/yashpreet07/DSA-leetCode-/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/yashpreet07/DSA-leetCode-/tree/master/3429-special-array-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/yashpreet07/DSA-leetCode-/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2649-count-total-number-of-colored-cells) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3321-type-of-triangle](https://github.com/yashpreet07/DSA-leetCode-/tree/master/3321-type-of-triangle) |
 ## Binary Search
 |  |
 | ------- |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2502-sort-the-people) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3321-type-of-triangle](https://github.com/yashpreet07/DSA-leetCode-/tree/master/3321-type-of-triangle) |
 ## Recursion
 |  |
 | ------- |
