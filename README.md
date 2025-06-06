@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0560-subarray-sum-equals-k) |
+| [0817-design-hashmap](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0817-design-hashmap) |
 | [0952-word-subsets](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0952-word-subsets) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1256-rank-transform-of-an-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1256-rank-transform-of-an-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0792-binary-search) |
+| [0817-design-hashmap](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0817-design-hashmap) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0909-stone-game](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0909-stone-game) |
 | [0941-sort-array-by-parity](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0941-sort-array-by-parity) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0237-delete-node-in-a-linked-list) |
+| [0817-design-hashmap](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0817-design-hashmap](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0817-design-hashmap) |
 | [0937-online-stock-span](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
@@ -533,4 +537,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0140-word-break-ii) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
