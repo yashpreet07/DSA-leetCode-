@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0560-subarray-sum-equals-k) |
 | [0817-design-hashmap](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0817-design-hashmap) |
+| [0940-fruit-into-baskets](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0952-word-subsets) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1256-rank-transform-of-an-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1256-rank-transform-of-an-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0817-design-hashmap) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0909-stone-game](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0909-stone-game) |
+| [0940-fruit-into-baskets](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0941-sort-array-by-parity) |
 | [0952-word-subsets](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0952-word-subsets) |
 | [0978-valid-mountain-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0978-valid-mountain-array) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0658-find-k-closest-elements) |
+| [0940-fruit-into-baskets](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0940-fruit-into-baskets) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1755-defuse-the-bomb](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1755-defuse-the-bomb) |
 ## Dynamic Programming
