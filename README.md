@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0076-minimum-window-substring) |
 | [0140-word-break-ii](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0142-linked-list-cycle-ii) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0131-palindrome-partitioning) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0658-find-k-closest-elements) |
