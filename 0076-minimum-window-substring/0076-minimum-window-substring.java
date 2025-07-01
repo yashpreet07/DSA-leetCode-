@@ -1,7 +1,6 @@
 class Solution {
     public String minWindow(String s, String t) {
         Map<Character,Integer> mp = new HashMap<>();
-        List<String> res = new ArrayList<>();
         int n = t.length();
         for(int i = 0;i < n;i++){
             mp.put(t.charAt(i),mp.getOrDefault(t.charAt(i),0) + 1);
