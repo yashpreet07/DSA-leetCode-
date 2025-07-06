@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/yashpreet07/DSA-leetCode-/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3379-score-of-a-string](https://github.com/yashpreet07/DSA-leetCode-/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/yashpreet07/DSA-leetCode-/tree/master/3447-clear-digits) |
+| [3617-find-the-original-typed-string-i](https://github.com/yashpreet07/DSA-leetCode-/tree/master/3617-find-the-original-typed-string-i) |
 ## Queue
 |  |
 | ------- |
