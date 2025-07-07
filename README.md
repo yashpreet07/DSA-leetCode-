@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2502-sort-the-people) |
+| [2886-faulty-keyboard](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2886-faulty-keyboard) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/yashpreet07/DSA-leetCode-/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/yashpreet07/DSA-leetCode-/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3379-score-of-a-string](https://github.com/yashpreet07/DSA-leetCode-/tree/master/3379-score-of-a-string) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2886-faulty-keyboard](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2886-faulty-keyboard) |
 | [3447-clear-digits](https://github.com/yashpreet07/DSA-leetCode-/tree/master/3447-clear-digits) |
 ## Greedy
 |  |
