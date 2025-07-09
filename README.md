@@ -568,11 +568,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2121-find-if-path-exists-in-graph](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2121-find-if-path-exists-in-graph) |
+| [2439-longest-cycle-in-a-graph](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2439-longest-cycle-in-a-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2121-find-if-path-exists-in-graph](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2121-find-if-path-exists-in-graph) |
+| [2439-longest-cycle-in-a-graph](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2439-longest-cycle-in-a-graph) |
 ## Union Find
 |  |
 | ------- |
@@ -582,4 +584,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2121-find-if-path-exists-in-graph](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2121-find-if-path-exists-in-graph) |
+| [2439-longest-cycle-in-a-graph](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2439-longest-cycle-in-a-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [2439-longest-cycle-in-a-graph](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2439-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
