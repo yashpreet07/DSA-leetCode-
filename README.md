@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0560-subarray-sum-equals-k) |
 | [0817-design-hashmap](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0817-design-hashmap) |
 | [0940-fruit-into-baskets](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0940-fruit-into-baskets) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0500-keyboard-row) |
 | [0800-letter-case-permutation](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0800-letter-case-permutation) |
 | [0952-word-subsets](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0952-word-subsets) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0643-maximum-average-subarray-i) |
