@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0238-product-of-array-except-self) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0733-flood-fill) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Interactive
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0210-course-schedule-ii) |
 | [0733-flood-fill](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0733-flood-fill) |
@@ -586,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0210-course-schedule-ii) |
 | [0733-flood-fill](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0733-flood-fill) |
@@ -595,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0200-number-of-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
