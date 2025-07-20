@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0817-design-hashmap) |
 | [0940-fruit-into-baskets](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0952-word-subsets) |
+| [1039-find-the-town-judge](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1039-find-the-town-judge) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1256-rank-transform-of-an-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1014-k-closest-points-to-origin) |
 | [1031-add-to-array-form-of-integer](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1031-add-to-array-form-of-integer) |
 | [1036-rotting-oranges](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1036-rotting-oranges) |
+| [1039-find-the-town-judge](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1039-find-the-town-judge) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0210-course-schedule-ii) |
+| [1039-find-the-town-judge](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1039-find-the-town-judge) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2121-find-if-path-exists-in-graph](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2121-find-if-path-exists-in-graph) |
