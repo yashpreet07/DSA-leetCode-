@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0909-stone-game) |
 | [0940-fruit-into-baskets](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0941-sort-array-by-parity) |
+| [0945-snakes-and-ladders](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0952-word-subsets) |
 | [0978-valid-mountain-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0978-valid-mountain-array) |
 | [1014-k-closest-points-to-origin](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1014-k-closest-points-to-origin) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0733-flood-fill) |
+| [0945-snakes-and-ladders](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1036-rotting-oranges) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Interactive
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0210-course-schedule-ii) |
 | [0733-flood-fill](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0733-flood-fill) |
+| [0945-snakes-and-ladders](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1036-rotting-oranges) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
