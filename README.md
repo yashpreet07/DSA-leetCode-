@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1646-kth-missing-positive-number) |
 | [1694-make-sum-divisible-by-p](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1694-make-sum-divisible-by-p) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1753-path-with-minimum-effort](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1753-path-with-minimum-effort) |
 | [1755-defuse-the-bomb](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1755-defuse-the-bomb) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1646-kth-missing-positive-number](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1646-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1753-path-with-minimum-effort](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1753-path-with-minimum-effort) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1014-k-closest-points-to-origin) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1753-path-with-minimum-effort](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1753-path-with-minimum-effort) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -507,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1036-rotting-oranges) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1753-path-with-minimum-effort) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Interactive
 |  |
@@ -597,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0733-flood-fill) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1753-path-with-minimum-effort](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2121-find-if-path-exists-in-graph) |
 | [2439-longest-cycle-in-a-graph](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2439-longest-cycle-in-a-graph) |
 ## Breadth-First Search
@@ -610,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1036-rotting-oranges) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1753-path-with-minimum-effort](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2121-find-if-path-exists-in-graph) |
 | [2439-longest-cycle-in-a-graph](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2439-longest-cycle-in-a-graph) |
 ## Union Find
@@ -617,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0200-number-of-islands) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1753-path-with-minimum-effort](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
