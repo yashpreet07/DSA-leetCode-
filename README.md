@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2502-sort-the-people) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2551-apply-operations-to-an-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2551-apply-operations-to-an-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1054-complement-of-base-10-integer](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1054-complement-of-base-10-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/yashpreet07/DSA-leetCode-/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Sorting
 |  |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0292-nim-game) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Game Theory
 |  |
 | ------- |
