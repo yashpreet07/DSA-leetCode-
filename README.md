@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0817-design-hashmap) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0909-stone-game](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0909-stone-game) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0941-sort-array-by-parity) |
 | [0945-snakes-and-ladders](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0945-snakes-and-ladders) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0476-number-complement) |
 | [0795-k-th-symbol-in-grammar](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0795-k-th-symbol-in-grammar) |
 | [0800-letter-case-permutation](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0800-letter-case-permutation) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1054-complement-of-base-10-integer](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1054-complement-of-base-10-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0392-is-subsequence) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0909-stone-game](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0909-stone-game) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0934-bitwise-ors-of-subarrays) |
 ## Prefix Sum
 |  |
 | ------- |
