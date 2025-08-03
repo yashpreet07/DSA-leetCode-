@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0140-word-break-ii) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0140-word-break-ii) |
