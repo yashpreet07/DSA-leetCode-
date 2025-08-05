@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/yashpreet07/DSA-leetCode-/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/yashpreet07/DSA-leetCode-/tree/master/3429-special-array-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/yashpreet07/DSA-leetCode-/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3790-fruits-into-baskets-ii](https://github.com/yashpreet07/DSA-leetCode-/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
 |  |
 | ------- |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3790-fruits-into-baskets-ii](https://github.com/yashpreet07/DSA-leetCode-/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2886-faulty-keyboard](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2886-faulty-keyboard) |
 | [3447-clear-digits](https://github.com/yashpreet07/DSA-leetCode-/tree/master/3447-clear-digits) |
+| [3790-fruits-into-baskets-ii](https://github.com/yashpreet07/DSA-leetCode-/tree/master/3790-fruits-into-baskets-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -661,4 +664,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0803-cheapest-flights-within-k-stops) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/yashpreet07/DSA-leetCode-/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/yashpreet07/DSA-leetCode-/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
