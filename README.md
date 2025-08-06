@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0076-minimum-window-substring) |
 | [0140-word-break-ii](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0140-word-break-ii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0036-valid-sudoku) |
 | [0047-permutations-ii](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0084-largest-rectangle-in-histogram) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0036-valid-sudoku) |
 | [0085-maximal-rectangle](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0733-flood-fill) |
