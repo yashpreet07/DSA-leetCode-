@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0560-subarray-sum-equals-k) |
 | [0817-design-hashmap](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0817-design-hashmap) |
+| [0900-reordered-power-of-2](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0952-word-subsets) |
 | [1039-find-the-town-judge](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1039-find-the-town-judge) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0451-sort-characters-by-frequency) |
+| [0900-reordered-power-of-2](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0900-reordered-power-of-2) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0507-perfect-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0795-k-th-symbol-in-grammar) |
+| [0900-reordered-power-of-2](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0900-reordered-power-of-2) |
 | [0909-stone-game](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0909-stone-game) |
 | [1014-k-closest-points-to-origin](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1014-k-closest-points-to-origin) |
 | [1031-add-to-array-form-of-integer](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1031-add-to-array-form-of-integer) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0658-find-k-closest-elements) |
+| [0900-reordered-power-of-2](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0900-reordered-power-of-2) |
 | [0941-sort-array-by-parity](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0941-sort-array-by-parity) |
 | [1014-k-closest-points-to-origin](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1014-k-closest-points-to-origin) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/yashpreet07/DSA-leetCode-/tree/master/1210-mean-of-array-after-removing-some-elements) |
@@ -442,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0900-reordered-power-of-2) |
 | [2083-three-divisors](https://github.com/yashpreet07/DSA-leetCode-/tree/master/2083-three-divisors) |
 ## Linked List
 |  |
