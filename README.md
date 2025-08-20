@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0560-subarray-sum-equals-k) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0392-is-subsequence) |
+| [0494-target-sum](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0494-target-sum) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0909-stone-game](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0909-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0047-permutations-ii) |
 | [0131-palindrome-partitioning](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0140-word-break-ii) |
+| [0494-target-sum](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0494-target-sum) |
 | [0800-letter-case-permutation](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0800-letter-case-permutation) |
 ## Divide and Conquer
 |  |
