@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0455-assign-cookies) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0518-coin-change-ii) |
@@ -643,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0733-flood-fill) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0945-snakes-and-ladders](https://github.com/yashpreet07/DSA-leetCode-/tree/master/0945-snakes-and-ladders) |
